@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joy-rifat
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Rifat Hasan
+- 👀 I’m interested in Bioinformatics and biological data analysis!
+- 🌱 I’ve learned javascript and tools and techniques of Bioinformatics
 - 💞️ I’m looking to collaborate on Github.
-- 📫 How to reach me.==>mail me "rifat19226@gmail.com"
+- 📫 How to reach me.==>mail me "rifat5794@stu.edu.bdcom"
 
 <!---
 joy-rifat/joy-rifat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
